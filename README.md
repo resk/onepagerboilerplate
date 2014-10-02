@@ -1,0 +1,1 @@
+One page boilerplate integrated with bootstrap, sass and jade
