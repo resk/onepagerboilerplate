@@ -1,7 +1,18 @@
+// FONT SECTION
+
 $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
-// bower:scss
+
+// VARIABLES
+
+
+// IMPORT SECTION
+
+@import "_reset.scss";
 @import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
-// endbower
+//@import "animate.css/animate.min.css";
+
+
+// CUSTOM CSS
 
 .browsehappy {
   margin: 0.2em 0;
